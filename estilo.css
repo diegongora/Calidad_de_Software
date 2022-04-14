@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+.Contenedor{    
+    background: darkslategray;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+
+}
+
+p{
+    font-size: xx-large;  
+    font-family: sans-serif;  
+    color: aliceblue;
+    padding: 15%;
+}
+
+button{
+font-size: xx-large;
+background: black;
+color: beige;
+padding: 0.60em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
